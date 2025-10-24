@@ -10,7 +10,7 @@ public class DataDiri {
         String nama = "Safira Naila";
         String nim = "2024573010066";
         LocalDate TglLahir = LocalDate.of(2006,04,1);
-        String alamat = "Punteut Meuraksa"
+        String alamat = "Punteut Meuraksa";
         String prodi = "Teknik Informatika";
         String jurusan ="Teknologi Informasi dan Komputer";
         System.out.println("Nama :" + nama );
